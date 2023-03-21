@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python, SQL, 
+- 🌱 I’m currently learning Python, SQL and Docker
 - 👯 I’m looking to collaborate on Finance related coding projects
 - 💬 Ask me about anything you want
 
